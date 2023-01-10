@@ -55,12 +55,24 @@ margin-top: 10px;
 margin-bottom: 30px;
 }
 
-.about-content 
+.column1-content, .column2-content 
 {
 padding-top: 20px;
 text-align: justify;
 
 }
+
+.seal-img 
+{
+  float: left;
+  width:150px;
+  height:150px;
+  margin-left:15px;
+  padding: 10px;
+
+}
+
+
 
 
 
