@@ -162,23 +162,18 @@
   margin-top: 40px;
 }
 
-.image-rapids {
+.image-tour {
   margin: auto;
-  height: 200px;
-  width: 200px;
-  padding: 10px;
+  height: 300px;
+  width: 300px;
+  padding: 15px;
 }
 
 #tourism p {
   font-size: 14px;
   margin-top: 20px;
   color: #efefef;
-}
-
-.tourism .col-md-3:hover {
-  background: #2c85e4;
-  cursor: pointer;
-  transition: 0.7s;
+  text-align: justify;
 }
 
 /*---Contact Us---*/
