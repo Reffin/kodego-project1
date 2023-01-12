@@ -210,6 +210,10 @@
   color: #999 !important;
 }
 
+.fa-solid {
+  padding: 5px;
+}
+
 .follow {
   background: #fff;
   padding: 5px;
