@@ -12,6 +12,7 @@
 
 .navbar-brand img {
   height: 70px;
+  width: 130px;
   padding-left: 30px;
 }
 
@@ -44,6 +45,7 @@
 
 .nav-item {
   font-weight: bolder;
+  font-size: 20px;
 }
 
 /*----About styles----*/
@@ -56,27 +58,22 @@
 .vision {
   padding-top: 25px;
   text-align: justify;
- 
 }
 
-.vision h1 
-{
+.vision h1 {
   color: orange;
 }
 
 .mission {
   padding-top: 25px;
   text-align: justify;
- 
 }
-.mission h1 
-{
+.mission h1 {
   color: orange;
 }
 
-
 #eco-tourism {
-background-image: url(./assets/images/blue.jpg);
+  background-image: url(./assets/images/blue.jpg);
   background-size: cover;
   background-position: center;
   color: #efefef !important;
@@ -85,21 +82,18 @@ background-image: url(./assets/images/blue.jpg);
   padding-bottom: 50px;
 }
 
-.eco
-{
+.eco {
   color: rgb(139, 241, 130);
   text-align: center;
 }
 .eco-image {
-display: block;
-  height: 290px;
-  width: 290px;
+  display: block;
+  height: 300px;
+  width: 300px;
   margin-left: auto;
   margin-right: auto;
   border: 3px solid rgb(68, 243, 97);
-  padding: 10px;
 }
-
 
 /*-----Introduction-----*/
 
@@ -114,28 +108,23 @@ display: block;
   text-align: justify;
 }
 
-#seal
-{
+#seal {
   padding-top: 10px;
   padding-bottom: 50px;
-  color: #555; 
+  color: #555;
 }
-.gov-seal
-{
-  display:block;
+.gov-seal {
+  display: block;
   height: 300px;
   width: 300px;
   margin-left: auto;
   margin-right: auto;
-  padding:10px;
+  padding: 10px;
 }
 
-.seal-content  
-{
+.seal-content {
   text-align: justify;
 }
-
-
 
 /*----Services styles----*/
 #services {
@@ -226,7 +215,6 @@ display: block;
   margin-left: auto;
   margin-right: auto;
   border: 3px solid rgb(68, 243, 97);
-  
 }
 
 #tourism p {
@@ -244,14 +232,12 @@ display: block;
   color: rgb(5, 89, 114);
 }
 
-#contact h1 
-{
+#contact h1 {
   text-align: center;
 }
 
-#contact h3
-{
-  text-align: center; 
+#contact h3 {
+  text-align: center;
 }
 
 .contact-form {
