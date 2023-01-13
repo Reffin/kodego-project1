@@ -76,6 +76,29 @@
   text-align: justify;
 }
 
+#seal
+{
+  padding-top: 10px;
+  padding-bottom: 50px;
+  color: #555; 
+}
+.gov-seal
+{
+  display:block;
+  height: 300px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding:10px;
+}
+
+.seal-content  
+{
+  text-align: justify;
+}
+
+
+
 /*----Services styles----*/
 #services {
   background-image: url(./assets/images/blue.jpg);
@@ -125,7 +148,7 @@
 }
 
 .services .col-md-3:hover {
-  background: #011e3a;
+  background: #0f6649;
   cursor: pointer;
   transition: 0.7s;
 }
