@@ -48,7 +48,7 @@
   font-size: 20px;
 }
 
-/*----About styles----*/
+/*----About Us styles----*/
 #about {
   padding-top: 10px;
   padding-bottom: 50px;
@@ -100,7 +100,7 @@
   border: 3px solid rgb(68, 243, 97);
 }
 
-/*-----Introduction-----*/
+/*-----Introduction sytles-----*/
 
 #introduction {
   padding-top: 5px;
@@ -242,7 +242,7 @@
   text-align: justify;
 }
 
-/*---Contact Us---*/
+/*---Contact styles---*/
 #contact {
   background: #efefef;
   padding-top: 40px;
@@ -289,7 +289,7 @@
   padding: 5px;
 }
 
-/*-------Footer------*/
+/*-------Footer styles------*/
 #footer {
   background: #333;
   color: #fff;
