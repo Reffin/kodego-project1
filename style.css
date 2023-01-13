@@ -169,9 +169,10 @@
 }
 
 #services p {
-  font-size: 14px;
+  font-size: 16px;
   margin-top: 20px;
   color: #fff;
+  text-align: justify;
 }
 
 .services .col-md-3:hover {
@@ -187,7 +188,7 @@
   background-position: center;
   color: #efefef !important;
   background-attachment: fixed;
-  padding-top: 50px;
+  padding-top: 20px;
   padding-bottom: 50px;
 }
 
