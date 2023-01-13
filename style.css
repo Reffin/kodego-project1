@@ -163,10 +163,10 @@
 
 /*--Add bottom line--*/ {
   content: "";
-  background: #efefef;
+  background: orange;
   display: block;
   height: 3px;
-  width: 240px;
+  width: 260px;
   margin: 5px auto 5px;
 }
 
