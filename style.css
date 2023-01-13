@@ -75,6 +75,32 @@
 }
 
 
+#eco-tourism {
+background-image: url(./assets/images/blue.jpg);
+  background-size: cover;
+  background-position: center;
+  color: #efefef !important;
+  background-attachment: fixed;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.eco
+{
+  color: rgb(139, 241, 130);
+  text-align: center;
+}
+.eco-image {
+display: block;
+  height: 290px;
+  width: 290px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid rgb(68, 243, 97);
+  padding: 10px;
+}
+
+
 /*---Introduction---*/
 
 #introduction {
