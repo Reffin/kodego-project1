@@ -12,6 +12,7 @@
 
 .navbar-brand img {
   height: 70px;
+  width: 100px;
   padding-left: 30px;
 }
 
@@ -44,9 +45,10 @@
 
 .nav-item {
   font-weight: bolder;
+  font-size: 20px;
 }
 
-/*----About styles----*/
+/*----About Us styles----*/
 #about {
   padding-top: 10px;
   padding-bottom: 50px;
@@ -56,57 +58,69 @@
 .vision {
   padding-top: 25px;
   text-align: justify;
- 
 }
 
-.vision h1 
-{
+.vision h1 {
   color: orange;
+  font-family: "Lilita One", cursive;
 }
 
 .mission {
   padding-top: 25px;
   text-align: justify;
- 
 }
-.mission h1 
-{
+.mission h1 {
   color: orange;
+  font-family: "Lilita One", cursive;
 }
-
 
 #eco-tourism {
-background-image: url(./assets/images/blue.jpg);
+  background-image: url(./assets/images/blue.jpg);
   background-size: cover;
   background-position: center;
   color: #efefef !important;
   background-attachment: fixed;
-  padding-top: 50px;
+  padding-top: 20px;
   padding-bottom: 50px;
 }
 
+<<<<<<< HEAD
 .eco
 {
   color: rgb(243, 152, 16);
+=======
+#eco-tourism h1 {
+  color: rgb(139, 241, 130);
+>>>>>>> 08c47fb938b12f31663b7f6a3b1395e7e29157b8
   text-align: center;
+  font-family: "Titan One", cursive;
+  font-size: 50px;
 }
+
 .eco-image {
-display: block;
-  height: 290px;
-  width: 290px;
+  display: block;
+  height: 300px;
+  width: 300px;
   margin-left: auto;
   margin-right: auto;
+<<<<<<< HEAD
   border: 3px solid rgb(241, 162, 15);
   padding: 10px;
+=======
+  border: 3px solid rgb(68, 243, 97);
+>>>>>>> 08c47fb938b12f31663b7f6a3b1395e7e29157b8
 }
 
-
-/*-----Introduction-----*/
+/*-----Introduction sytles-----*/
 
 #introduction {
   padding-top: 5px;
   padding-bottom: 50px;
   color: #555;
+}
+#introduction h1 {
+  font-family: "Slabo 27px", serif;
+  color: darkcyan;
 }
 
 .intro-content {
@@ -114,28 +128,28 @@ display: block;
   text-align: justify;
 }
 
-#seal
-{
+#seal {
   padding-top: 10px;
   padding-bottom: 50px;
-  color: #555; 
+  color: #555;
 }
-.gov-seal
-{
-  display:block;
+#seal h1 {
+  font-family: "Slabo 27px", serif;
+  color: darkcyan;
+}
+
+.gov-seal {
+  display: block;
   height: 300px;
   width: 300px;
   margin-left: auto;
   margin-right: auto;
-  padding:10px;
+  padding: 10px;
 }
 
-.seal-content  
-{
+.seal-content {
   text-align: justify;
 }
-
-
 
 /*----Services styles----*/
 #services {
@@ -150,18 +164,20 @@ display: block;
 
 #services h1 {
   text-align: center;
-  color: #efefef !important;
-  padding-bottom: 10px;
+  color: #f07706 !important;
+  padding-bottom: 5px;
+  font-family: "Lilita One", cursive;
+  font-size: 50px;
 }
 
 #services h1:after
 
 /*--Add bottom line--*/ {
   content: "";
-  background: #efefef;
+  background: orange;
   display: block;
   height: 3px;
-  width: 240px;
+  width: 260px;
   margin: 5px auto 5px;
 }
 
@@ -180,9 +196,10 @@ display: block;
 }
 
 #services p {
-  font-size: 14px;
+  font-size: 16px;
   margin-top: 20px;
   color: #fff;
+  text-align: justify;
 }
 
 .services .col-md-3:hover {
@@ -198,24 +215,25 @@ display: block;
   background-position: center;
   color: #efefef !important;
   background-attachment: fixed;
-  padding-top: 50px;
+  padding-top: 20px;
   padding-bottom: 50px;
 }
 
 #tourism h1 {
   text-align: center;
-  color: #efefef !important;
+  color: #08db67 !important;
   padding-bottom: 10px;
+  font-family: "Potta One", cursive;
 }
 
 #tourism h1:after
 
 /*--Add bottom line--*/ {
   content: "";
-  background: #efefef;
+  background: #08db67;
   display: block;
   height: 3px;
-  width: 350px;
+  width: 400px;
   margin: 5px auto 5px;
 }
 
@@ -226,17 +244,16 @@ display: block;
   margin-left: auto;
   margin-right: auto;
   border: 3px solid rgb(68, 243, 97);
-  
 }
 
 #tourism p {
-  font-size: 14px;
+  font-size: 16px;
   margin-top: 20px;
   color: #efefef;
   text-align: justify;
 }
 
-/*---Contact Us---*/
+/*---Contact styles---*/
 #contact {
   background: #efefef;
   padding-top: 40px;
@@ -244,14 +261,12 @@ display: block;
   color: rgb(5, 89, 114);
 }
 
-#contact h1 
-{
+#contact h1 {
   text-align: center;
 }
 
-#contact h3
-{
-  text-align: center; 
+#contact h3 {
+  text-align: center;
 }
 
 .contact-form {
@@ -285,7 +300,7 @@ display: block;
   padding: 5px;
 }
 
-/*-------Footer------*/
+/*-------Footer styles------*/
 #footer {
   background: #333;
   color: #fff;
