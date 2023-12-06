@@ -25,7 +25,7 @@
 }
 
 #nav-bar ul li a:hover {
-  color: #007bff !important;
+  color: #305235 !important;
 }
 
 .navbar {
@@ -37,7 +37,7 @@
 }
 
 .nav-link {
-  color: #555 !important;
+  color: orange !important;
   font-weight: 600;
   font-size: 16px;
 }
@@ -87,7 +87,7 @@ background-image: url(./assets/images/blue.jpg);
 
 .eco
 {
-  color: rgb(139, 241, 130);
+  color: rgb(243, 152, 16);
   text-align: center;
 }
 .eco-image {
@@ -96,7 +96,7 @@ display: block;
   width: 290px;
   margin-left: auto;
   margin-right: auto;
-  border: 3px solid rgb(68, 243, 97);
+  border: 3px solid rgb(241, 162, 15);
   padding: 10px;
 }
 
