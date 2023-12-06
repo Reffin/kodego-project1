@@ -78,20 +78,15 @@
   background-image: url(./assets/images/blue.jpg);
   background-size: cover;
   background-position: center;
-  color: #efefef !important;
+  color: rgb(243, 152, 16) !important;
   background-attachment: fixed;
   padding-top: 20px;
   padding-bottom: 50px;
 }
 
-<<<<<<< HEAD
 .eco
 {
   color: rgb(243, 152, 16);
-=======
-#eco-tourism h1 {
-  color: rgb(139, 241, 130);
->>>>>>> 08c47fb938b12f31663b7f6a3b1395e7e29157b8
   text-align: center;
   font-family: "Titan One", cursive;
   font-size: 50px;
@@ -99,16 +94,12 @@
 
 .eco-image {
   display: block;
-  height: 300px;
-  width: 300px;
+  height: 350px;
+  width: 280px;
   margin-left: auto;
   margin-right: auto;
-<<<<<<< HEAD
-  border: 3px solid rgb(241, 162, 15);
-  padding: 10px;
-=======
-  border: 3px solid rgb(68, 243, 97);
->>>>>>> 08c47fb938b12f31663b7f6a3b1395e7e29157b8
+  border: 4px solid rgb(15, 241, 203);
+  padding: 1px;
 }
 
 /*-----Introduction sytles-----*/
@@ -221,7 +212,7 @@
 
 #tourism h1 {
   text-align: center;
-  color: #08db67 !important;
+  color: #db9808 !important;
   padding-bottom: 10px;
   font-family: "Potta One", cursive;
 }
@@ -230,7 +221,7 @@
 
 /*--Add bottom line--*/ {
   content: "";
-  background: #08db67;
+  background: #db9808 ;
   display: block;
   height: 3px;
   width: 400px;
